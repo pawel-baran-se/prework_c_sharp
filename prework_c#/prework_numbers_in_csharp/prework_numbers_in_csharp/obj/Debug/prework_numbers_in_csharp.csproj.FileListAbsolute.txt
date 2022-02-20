@@ -1,0 +1,14 @@
+C:\Users\pawel\source\repos\prework_numbers_in_csharp\prework_numbers_in_csharp\bin\Debug\prework_numbers_in_csharp.exe.config
+C:\Users\pawel\source\repos\prework_numbers_in_csharp\prework_numbers_in_csharp\bin\Debug\prework_numbers_in_csharp.exe
+C:\Users\pawel\source\repos\prework_numbers_in_csharp\prework_numbers_in_csharp\bin\Debug\prework_numbers_in_csharp.pdb
+C:\Users\pawel\source\repos\prework_numbers_in_csharp\prework_numbers_in_csharp\obj\Debug\prework_numbers_in_csharp.csproj.AssemblyReference.cache
+C:\Users\pawel\source\repos\prework_numbers_in_csharp\prework_numbers_in_csharp\obj\Debug\prework_numbers_in_csharp.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\prework_numbers_in_csharp\prework_numbers_in_csharp\obj\Debug\prework_numbers_in_csharp.exe
+C:\Users\pawel\source\repos\prework_numbers_in_csharp\prework_numbers_in_csharp\obj\Debug\prework_numbers_in_csharp.pdb
+D:\Bootcamp c#\Prework c#\prework_c#\prework_numbers_in_csharp\prework_numbers_in_csharp\bin\Debug\prework_numbers_in_csharp.exe.config
+D:\Bootcamp c#\Prework c#\prework_c#\prework_numbers_in_csharp\prework_numbers_in_csharp\bin\Debug\prework_numbers_in_csharp.exe
+D:\Bootcamp c#\Prework c#\prework_c#\prework_numbers_in_csharp\prework_numbers_in_csharp\bin\Debug\prework_numbers_in_csharp.pdb
+D:\Bootcamp c#\Prework c#\prework_c#\prework_numbers_in_csharp\prework_numbers_in_csharp\obj\Debug\prework_numbers_in_csharp.csproj.AssemblyReference.cache
+D:\Bootcamp c#\Prework c#\prework_c#\prework_numbers_in_csharp\prework_numbers_in_csharp\obj\Debug\prework_numbers_in_csharp.csproj.CoreCompileInputs.cache
+D:\Bootcamp c#\Prework c#\prework_c#\prework_numbers_in_csharp\prework_numbers_in_csharp\obj\Debug\prework_numbers_in_csharp.exe
+D:\Bootcamp c#\Prework c#\prework_c#\prework_numbers_in_csharp\prework_numbers_in_csharp\obj\Debug\prework_numbers_in_csharp.pdb

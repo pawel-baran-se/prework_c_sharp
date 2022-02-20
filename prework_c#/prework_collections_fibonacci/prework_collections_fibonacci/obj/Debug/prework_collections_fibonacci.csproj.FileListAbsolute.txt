@@ -1,0 +1,6 @@
+D:\Bootcamp c#\Prework c#\prework_c#\prework_collections_fibonacci\prework_collections_fibonacci\obj\Debug\prework_collections_fibonacci.csproj.CoreCompileInputs.cache
+D:\Bootcamp c#\Prework c#\prework_c#\prework_collections_fibonacci\prework_collections_fibonacci\bin\Debug\prework_collections_fibonacci.exe.config
+D:\Bootcamp c#\Prework c#\prework_c#\prework_collections_fibonacci\prework_collections_fibonacci\bin\Debug\prework_collections_fibonacci.exe
+D:\Bootcamp c#\Prework c#\prework_c#\prework_collections_fibonacci\prework_collections_fibonacci\bin\Debug\prework_collections_fibonacci.pdb
+D:\Bootcamp c#\Prework c#\prework_c#\prework_collections_fibonacci\prework_collections_fibonacci\obj\Debug\prework_collections_fibonacci.exe
+D:\Bootcamp c#\Prework c#\prework_c#\prework_collections_fibonacci\prework_collections_fibonacci\obj\Debug\prework_collections_fibonacci.pdb

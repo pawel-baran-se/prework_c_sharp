@@ -1,0 +1,7 @@
+D:\Bootcamp c#\Prework c#\prework_c#\prework_branches_and_loops\prework_branches_and_loops\obj\Debug\prework_branches_and_loops.csproj.AssemblyReference.cache
+D:\Bootcamp c#\Prework c#\prework_c#\prework_branches_and_loops\prework_branches_and_loops\obj\Debug\prework_branches_and_loops.csproj.CoreCompileInputs.cache
+D:\Bootcamp c#\Prework c#\prework_c#\prework_branches_and_loops\prework_branches_and_loops\bin\Debug\prework_branches_and_loops.exe.config
+D:\Bootcamp c#\Prework c#\prework_c#\prework_branches_and_loops\prework_branches_and_loops\bin\Debug\prework_branches_and_loops.exe
+D:\Bootcamp c#\Prework c#\prework_c#\prework_branches_and_loops\prework_branches_and_loops\bin\Debug\prework_branches_and_loops.pdb
+D:\Bootcamp c#\Prework c#\prework_c#\prework_branches_and_loops\prework_branches_and_loops\obj\Debug\prework_branches_and_loops.exe
+D:\Bootcamp c#\Prework c#\prework_c#\prework_branches_and_loops\prework_branches_and_loops\obj\Debug\prework_branches_and_loops.pdb

@@ -1,0 +1,7 @@
+D:\Bootcamp c#\Prework c#\prework_c#\additional_excersise_csharp\additional_excersise_csharp\bin\Debug\additional_excersise_csharp.exe.config
+D:\Bootcamp c#\Prework c#\prework_c#\additional_excersise_csharp\additional_excersise_csharp\bin\Debug\additional_excersise_csharp.exe
+D:\Bootcamp c#\Prework c#\prework_c#\additional_excersise_csharp\additional_excersise_csharp\bin\Debug\additional_excersise_csharp.pdb
+D:\Bootcamp c#\Prework c#\prework_c#\additional_excersise_csharp\additional_excersise_csharp\obj\Debug\additional_excersise_csharp.csproj.AssemblyReference.cache
+D:\Bootcamp c#\Prework c#\prework_c#\additional_excersise_csharp\additional_excersise_csharp\obj\Debug\additional_excersise_csharp.csproj.CoreCompileInputs.cache
+D:\Bootcamp c#\Prework c#\prework_c#\additional_excersise_csharp\additional_excersise_csharp\obj\Debug\additional_excersise_csharp.exe
+D:\Bootcamp c#\Prework c#\prework_c#\additional_excersise_csharp\additional_excersise_csharp\obj\Debug\additional_excersise_csharp.pdb
